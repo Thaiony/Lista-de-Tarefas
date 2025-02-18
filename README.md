@@ -1,2 +1,2 @@
 # Lista de Tarefas
- projeto para um lista de tarefas
+Projeto para um lista de tarefas simples
